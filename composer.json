@@ -15,7 +15,7 @@
   ],
   "require": {
     "php": ">=7.0.0",
-    "jgrossi/corcel": "~2.5",
+    "jgrossi/corcel": "~3.0",
     "greabock/tentacles": "^1.0"
   },
   "require-dev": {
